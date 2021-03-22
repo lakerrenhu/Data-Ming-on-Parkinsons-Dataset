@@ -1,0 +1,2 @@
+# Data-Ming-on-Parkinsons-Dataset
+firstly we do dataset description, statistical summary and feature selection for Parkinsons dataset . Then, support vector regression(SVR) with kernels and boosted regression(BRT) tree are introduced to fit models with the Unified Parkinson's Disease Rating Scale as the response. Our outcomes on the test dataset illustrate that the BRT model outperforms the SVR model on prediction accuracy indicated by the root mean squared error(RMSE), and the tuned models generally work better than the untuned.
